@@ -24,6 +24,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamedashrafelsaed/"><img src="https://img.shields.io/badge/-linkedin-ss?style=social&logo=linkedin"/></a>
-<a href="https://twitter.com/MohammedElsaed_"><img src="https://img.shields.io/twitter/follow/MohammedElsaed_?label=Mohamed%20Ashraf&style=social"/></a>
+  <a href="https://www.linkedin.com/in/mohamedashrafelsaed/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-ss?style=social&logo=linkedin"/></a>
+<a href="https://twitter.com/MohammedElsaed_" target="_blank"><img src="https://img.shields.io/twitter/follow/MohammedElsaed_?label=Mohamed%20Ashraf&style=social"/></a>
 </p>
