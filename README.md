@@ -26,6 +26,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mohamedashrafelsaed/"><img src="https://img.shields.io/badge/Mohamed%20Ashraf?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/mohamed_ashraf_elsaed/"><img src="https://img.shields.io/badge/Mohamed%20Ashraf?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/mohamed.ashrafelsaed201"><img src="https://img.shields.io/badge/Mohamed%20Ashraf?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/mohamed.ashrafelsaed201"><img src="https://img.shields.io/badge/Mohamed%20Ashraf?style=social&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/MohammedElsaed_"><img src="https://img.shields.io/twitter/follow/MohammedElsaed_?label=Mohamed%20Ashraf&style=social"/></a>
 </p>
